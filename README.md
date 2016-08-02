@@ -36,6 +36,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-transparent-bg](https://www.npmjs.com/package/hyperterm-transparent-bg) - add a transparent background to your Hyperterm through an interesting HTML hack.
 * [hypercwd](https://www.npmjs.com/package/hypercwd) - Open new tabs with the same directory as your current tab.
 * [hyperterm-1password](https://www.npmjs.com/package/hyperterm-1password) - Integration with 1Password (password manager).
+* [hyperterm-paste](https://www.npmjs.com/package/hyperterm-paste) - Pasting into terminal made safe and easy
 * [hyperterm-visor](https://github.com/CWSpear/hyperterm-visor) - Show/hide your HyperTerm terminal with a global hotkey & more.
 * [hyperterm-open-devtools](https://www.npmjs.com/package/hyperterm-open-devtools) - Open DevTools for currently showing web page with a hotkey.
 * [hyperterm-close-on-left](https://www.npmjs.com/package/hyperterm-close-on-left) - Positions the close tab button on the left.
